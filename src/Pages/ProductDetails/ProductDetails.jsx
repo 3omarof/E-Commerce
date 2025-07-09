@@ -9,7 +9,7 @@ import "swiper/css/navigation";
 import "swiper/css/autoplay";
 import { Autoplay } from "swiper/modules";
 import ReactImageGallery from "react-image-gallery";
-import Card from "../../Components/card/Card";
+import Card from "../../Components/Card/Card";
 import { wishlistContext } from "../../context/Wishlist.context";
 
 export default function ProductDetails() {
