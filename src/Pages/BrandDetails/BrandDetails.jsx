@@ -2,7 +2,7 @@ import axios from "axios";
 import React, { useState, useEffect } from "react";
 import { Link, useParams } from "react-router-dom";
 import Loading from "../../Components/Loading/Loading";
-import Card from "../../Components/card/Card";
+import Card from "../../Components/Card/Card";
 import noProduct from "../../assets/imgs/product-not-found.jpg";
 
 export default function BrandDetails() {
