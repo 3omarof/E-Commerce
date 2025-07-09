@@ -23,7 +23,7 @@ import NotFound from "./Pages/NotFound/NotFound";
 import Offline from "./Components/Offline/Offline";
 import BrandDetails from "./Pages/BrandDetails/BrandDetails";
 import WishlistProvider from "./context/Wishlist.context";
-import Wishlist from "./Pages/WishList/Wishlist";
+import Wishlist from "./Pages/Wishlist/Wishlist";
 
 function App() {
   const router = createBrowserRouter([
