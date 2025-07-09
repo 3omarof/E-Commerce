@@ -1,6 +1,6 @@
 import axios from "axios";
 import { useEffect, useState } from "react";
-import Card from "../../Components/card/Card";
+import Card from "../../Components/Card/Card";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import MainSlider from "../../Components/MainSlider/MainSlider";
