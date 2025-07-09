@@ -33,4 +33,12 @@ This project showcases modern frontend development practices and is designed to 
 <img src="./imgsForGithub/wishList.png" alt="E-Commerce Preview" width="800"/>
 <img src="./imgsForGithub/Cart.png" alt="E-Commerce Preview" width="800"/>
 
+## 🔗 Live Demo
+
+👉 [Click here to view the project live](https://e-commerce-ten-delta-69.vercel.app)
+
+## 🙋‍♂️ Author
+
+Made by **Omar Tamer**  
+[GitHub](https://github.com/3omarof)
 
